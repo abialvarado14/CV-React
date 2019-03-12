@@ -1,0 +1,11 @@
+body {
+    background-color: #ffffcc;
+  }
+
+.centrado{
+	margin:10px auto;
+	display:block;
+}
+.margen{
+    margin-top:10px;
+  }
